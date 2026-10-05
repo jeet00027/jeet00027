@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jeet Patil.<br><br>- 🎓 B.Tech CSE Student<br>- 💻 Full Stack Developer (Learning & Building)<br>- 🌱 Currently learning DSA in Java, AI & ML, System Design.<br>- 🚀 Love building modern, responsive web applications<br>- 🤝 Open to collaboration on exciting projects<br>- 📚 Always curious to learn new technologies<br><br>while (!success) {<br>    learn();<br>    build();<br>    improve();<br>    repeat();<br>}
+I'm Jeet Patil.<br><br>- 🎓 B.Tech CSE Student<br>- 💻 Full Stack Developer (Learning & Building)<br>- 🌱 Currently learning DSA in Java, AI & ML, System Design.<br>- 🚀 Love building modern, responsive web applications<br>- 🤝 Open to collaboration on exciting projects<br>- 📚 Always curious to learn new technologies<br>
 
 
 ## 🌐 Socials:
